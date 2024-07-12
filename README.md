@@ -11,6 +11,8 @@
   <!--
   - Connect me on <a href="[https://www.linkedin.com/in/ahmad-hameed-1b1759316/" target="_blank">LinkedIn</a>
   -->
+  ## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hameed-1b1759316)
 
 ## My Tech Stack
 
