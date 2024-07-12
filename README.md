@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋, I'm Ahmad Hameed</h1>
 
-<h3 align="center">Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher</h3>
+<h3 align="center">Student | Mern Stack Web Developer | Team Player | Learner</h3>
 
 - 🌱 Currently learning **NestJS**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Database, Data Structures, Software Engineering etc**
@@ -38,55 +38,23 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 
-### AWS - Amazon Web Services
-
-![Lambda Functions](https://img.shields.io/badge/-Lambda%20Functions-333333?style=flat&logo=amazonaws)
-![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazonaws)
-![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonaws)
-![Lightsail](https://img.shields.io/badge/-Lightsail-333333?style=flat&logo=amazonaws)
-![Cognito](https://img.shields.io/badge/-Cognito-333333?style=flat&logo=amazonaws)
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-333333?style=flat&logo=amazonaws)
-![CloudFormation](https://img.shields.io/badge/-CloudFormation-333333?style=flat&logo=amazonaws)
-![CloudFront](https://img.shields.io/badge/-CloudFront-333333?style=flat&logo=amazonaws)
-![Simple Email Service](https://img.shields.io/badge/-Simple%20Email%20Service-333333?style=flat&logo=amazonaws)
-![Simple Notification Service](https://img.shields.io/badge/-Simple%20Notification%20Service-333333?style=flat&logo=amazonaws)
-![Simple Queue Service](https://img.shields.io/badge/-Simple%20Queue%20Service-333333?style=flat&logo=amazonaws)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazonaws)
-![RDS](https://img.shields.io/badge/-RDS-333333?style=flat&logo=amazonaws)
-![Redshift](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazonaws)
-![API Gateway](https://img.shields.io/badge/-API%20Gateway-333333?style=flat&logo=amazonaws)
-![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-333333?style=flat&logo=amazonaws)
 
 ### GCP - Google Cloud Platform
 
-![App Engine](https://img.shields.io/badge/-App%20Engine-333333?style=flat&logo=googlecloud)
 ![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-333333?style=flat&logo=googlecloud)
 ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-333333?style=flat&logo=googlecloud)
-![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-333333?style=flat&logo=googlecloud)
 ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=googlecloud)
-![Cloud Pub/Sub](https://img.shields.io/badge/-Cloud%20Pub/Sub-333333?style=flat&logo=googlecloud)
 ![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-333333?style=flat&logo=googlecloud)
 
 ### DevOps
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
-![TravisCI](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=travis-ci)
-![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=flat&logo=circleci)
 ![GitLabCI](https://img.shields.io/badge/-GitLabCI-333333?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+
 
 ### Payment Gateways
 
