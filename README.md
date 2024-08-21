@@ -3,8 +3,8 @@
 
 <h3 align="center">Student | Mern Stack Web Developer | Team Player | Learner</h3>
 
-- 🌱 Currently learning **NestJS**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Database, Data Structures, Software Engineering etc**
+- 🌱 Currently learning **NextJS**
+- 💬 Ask me about **JavaScript, TypeScript, React,Next, Node.js, Database, Data Structures, Software Engineering etc**
 - 📫 Reach out to me at:
   - Mail me at [ahmadhameed5633@gmail.com](mailto:ahmadhameed5633@gmail.com)
 - 😄 Pronouns: him/his
